@@ -4,7 +4,7 @@ title: "Welcome to Jekyll Test..."
 date: 2021-10-01 12:08:37 -0400
 author:
   name: Traveris Patterson
-  picture: /logo.jpg
+  picture: logo.jpg
 categories: jekyll update
 ---
 
