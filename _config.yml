@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 gem "github-pages", group: :jekyll_plugins
+
 remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Teej Does Code
-description: "A web developer blog, welcome!"
+description: "A web developer."
 baseurl: /
 url: https://jpatterson88.github.io
-logo: "/logo.jpg"
+logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -55,11 +56,11 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: true # can have performance implications for large sites
+search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
- category_archive_path: "/categories/#"
- tag_archive_path: "/tags/#"
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
