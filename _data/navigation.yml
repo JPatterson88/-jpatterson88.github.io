@@ -3,6 +3,7 @@
 title: Home
   url: /
 title: Posts
+  url: /
 #url: /posts/
 # - title: Categories
 #   url: /categories/
@@ -11,6 +12,7 @@ title: Posts
 # - title: Recipes
 #   url: /recipes/
 title: Search
+url: /
 #url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
