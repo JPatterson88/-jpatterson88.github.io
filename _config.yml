@@ -18,7 +18,7 @@ gem "github-pages", group: :jekyll_plugins
 remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-title: "Teej Does Code
+title: "Teej Does Code"
 description: "A web developer."
 baseurl: /
 url: https://jpatterson88.github.io
