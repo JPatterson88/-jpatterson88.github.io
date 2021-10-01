@@ -2,6 +2,8 @@
 layout: post
 title: "Welcome to Jekyll Test..."
 date: 2021-10-01 12:08:37 -0400
+author: Traveris Patterson
+picture: /logo.jpg
 categories: jekyll update
 ---
 
