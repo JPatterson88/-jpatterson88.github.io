@@ -17,8 +17,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-title: "So Simple Development Site"
-description: "A simple Jekyll theme for words and pictures."
+title: "Teej Does Code"
+description: "A blog about code"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: https://jpatterson88.github.io/
 logo: "/images/tdc-small.png" # path of site logo, e.g. "/assets/images/logo.png"
