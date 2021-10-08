@@ -21,7 +21,7 @@ title: "Teej Does Code"
 description: "A blog about code"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: https://jpatterson88.github.io/
-logo: "/images/tjt-resize.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/teejdoestech-small.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
